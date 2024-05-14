@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "tree-sitter-cli": "^0.22.6",
+    "ts-server": "^0.0.15"
+  }
+}
